@@ -1,3 +1,1 @@
-require 'bundler/setup'
-Bundler.require(:default, :development)
-require 'awesome_print'
+learn submit_tag
